@@ -18,7 +18,7 @@ $ git clone https://github.com/Github-Megh/RockPaperScissor.git
 
 3. Gather Images for each gesture (rock, paper and scissors, and None)
 
-In this example, I collected 70 images for the "rock" gesture
+In this example, I collected 70 images for the "rock-paper-scissors-none" gesture
 ```sh
 $ python3 Collect_images.py rock 200
 ```
