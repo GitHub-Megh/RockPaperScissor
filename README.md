@@ -1,6 +1,3 @@
-
-# Project Title
-
 # rock-paper-scissors
 
 An AI to play the Rock Paper Scissors game
@@ -15,7 +12,6 @@ An AI to play the Rock Paper Scissors game
 1. Clone the repo.
 ```sh
 $ git clone https://github.com/Github-Megh/RockPaperScissor.git
-$ cd rock-paper-scissors
 ```
 
 2. Install the dependencies
